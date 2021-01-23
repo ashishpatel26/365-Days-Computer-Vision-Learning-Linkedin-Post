@@ -26,4 +26,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 20   | **Deeplabv1**                                | https://bit.ly/3o7Utqn |
 | 21   | **CRF-RNN**                                  | https://bit.ly/2Y5nsR4 |
 | 22   | **Deeplabv2**                                | https://bit.ly/2Y9DgSx |
+| 23   | **DPN**                                      | https://bit.ly/363Cye2 |
 
