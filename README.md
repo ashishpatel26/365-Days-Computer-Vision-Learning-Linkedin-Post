@@ -28,4 +28,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 22   | **Deeplabv2**                                | https://bit.ly/2Y9DgSx |
 | 23   | **DPN**                                      | https://bit.ly/363Cye2 |
 | 24   | **Grad-CAM**                                 | https://bit.ly/3iF006q |
+| 25   | **ParseNet**                                 | https://bit.ly/3oesFk5 |
 
