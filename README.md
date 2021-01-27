@@ -30,4 +30,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 24   | **Grad-CAM**                                 | https://bit.ly/3iF006q |
 | 25   | **ParseNet**                                 | https://bit.ly/3oesFk5 |
 | 26   | **ResNeXt**                                  | https://bit.ly/2M2sXxe |
+| 27   | **AmoebaNet**                                | https://bit.ly/2YgRIbN |
 
