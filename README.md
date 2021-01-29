@@ -32,4 +32,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 26   | **ResNeXt**                                  | https://bit.ly/2M2sXxe |
 | 27   | **AmoebaNet**                                | https://bit.ly/2YgRIbN |
 | 28   | **DilatedNet**                               | https://bit.ly/2M9fuDS |
+| 29   | **DRN**                                      | https://bit.ly/2KXVmUH |
 
