@@ -34,4 +34,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 28   | **DilatedNet**                               | https://bit.ly/2M9fuDS |
 | 29   | **DRN**                                      | https://bit.ly/2KXVmUH |
 | 30   | **RefineNet**                                | https://bit.ly/3cpCBVq |
+| 31   | **Preactivation-Resnet**                     | https://bit.ly/2MJtgwQ |
 
