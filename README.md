@@ -36,4 +36,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 30   | **RefineNet**                                | https://bit.ly/3cpCBVq |
 | 31   | **Preactivation-Resnet**                     | https://bit.ly/2MJtgwQ |
 | 32   | **SqueezeNet**                               | https://bit.ly/3cv3Ca0 |
+| 33   | **FractalNet**                               | https://bit.ly/3pSv712 |
 
