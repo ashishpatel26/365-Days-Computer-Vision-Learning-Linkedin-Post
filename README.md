@@ -38,4 +38,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 32   | **SqueezeNet**                               | https://bit.ly/3cv3Ca0 |
 | 33   | **FractalNet**                               | https://bit.ly/3pSv712 |
 | 34   | **PolyNet**                                  | https://bit.ly/3atCQfJ |
+| 35   | **DeepSim(Image Quality Assessment)**        | https://bit.ly/3oKJGTi |
 
