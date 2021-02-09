@@ -43,4 +43,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 37   | **IGCNet / IGCV**                            | https://bit.ly/36LRfTo |
 | 38   | **Resnet38**                                 | https://bit.ly/2N7tpKL |
 | 39   | **SqueezeNext**                              | https://bit.ly/3cSev5W |
+| 40   | **Group Normalization**                      | https://bit.ly/3ryNxEI |
 
