@@ -45,4 +45,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 39   | **SqueezeNext**                              | https://bit.ly/3cSev5W |
 | 40   | **Group Normalization**                      | https://bit.ly/3ryNxEI |
 | 41   | **ENAS**                                     | https://bit.ly/2LB6pDC |
+| 42   | **PNASNet**                                  | https://bit.ly/3tIX6mx |
 
