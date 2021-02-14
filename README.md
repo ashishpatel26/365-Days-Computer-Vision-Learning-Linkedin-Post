@@ -48,4 +48,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 42   | **PNASNet**                                  | https://bit.ly/3tIX6mx |
 | 43   | **ShuffleNetV2**                             | https://bit.ly/2Zb3xAM |
 | 44   | **BAM**                                      | https://bit.ly/3b67xb2 |
+| 45   | **CBAM**                                     | https://bit.ly/3plxHvJ |
 
