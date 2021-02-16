@@ -50,4 +50,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 44   | **BAM**                                      | https://bit.ly/3b67xb2 |
 | 45   | **CBAM**                                     | https://bit.ly/3plxHvJ |
 | 46   | **MorphNet**                                 | https://bit.ly/3rWzcSM |
+| 47   | **NetAdapt**                                 | https://bit.ly/2NtlFmE |
 
