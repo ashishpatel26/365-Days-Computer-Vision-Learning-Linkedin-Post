@@ -54,4 +54,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 48   | **ESPNetv2**                                 | https://bit.ly/3jWVoJv |
 | 49   | **FBNet**                                    | https://bit.ly/3k1PXZL |
 | 50   | **HideandSeek**                              | https://bit.ly/3qELCP0 |
+| 51   | **MR-CNN & S-CNN**                           | https://bit.ly/2Zw6QTf |
 
