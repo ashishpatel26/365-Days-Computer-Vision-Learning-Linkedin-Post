@@ -55,4 +55,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 49   | **FBNet**                                    | https://bit.ly/3k1PXZL |
 | 50   | **HideandSeek**                              | https://bit.ly/3qELCP0 |
 | 51   | **MR-CNN & S-CNN**                           | https://bit.ly/2Zw6QTf |
+| 52   | **ACoL: Adversarial Complementary Learning** | https://bit.ly/3qKFNiU |
 
