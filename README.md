@@ -59,4 +59,6 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 53   | **CutMix**                                   | https://bit.ly/2Nt5shI |
 | 54   | **ADL**                                      | https://bit.ly/3qNeFQm |
 | 55   | **SAOL**                                     | https://bit.ly/2NVuBBs |
+| 56   | **SSD**                                      | https://bit.ly/37PWpyo |
+| 57   | **NOC**                                      | https://bit.ly/3uBrZJJ |
 
