@@ -61,4 +61,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 55   | **SAOL**                                     | https://bit.ly/2NVuBBs |
 | 56   | **SSD**                                      | https://bit.ly/37PWpyo |
 | 57   | **NOC**                                      | https://bit.ly/3uBrZJJ |
+| 58   | **G-RMI**                                    | https://bit.ly/3kJDlap |
+| 59   | **TDM**                                      | https://bit.ly/3dV5zgN |
+| 60   |                                              |                        |
 
