@@ -66,7 +66,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 60   | **DSSD**                                     | https://bit.ly/3q6EHg8 |
 | 61   | **FPN**                                      | https://bit.ly/2OewZn0 |
 | 62   | **DCN**                                      | https://bit.ly/3e3G4Kg |
-|      |                                              |                        |
+| 63   | **Light-Head-RCNN**                          | https://bit.ly/388rtcT |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
