@@ -68,7 +68,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 62   | **DCN**                                      | https://bit.ly/3e3G4Kg |
 | 63   | **Light-Head-RCNN**                          | https://bit.ly/388rtcT |
 | 64   | **Cascade RCNN**                             | https://bit.ly/3uUDlZz |
-|      |                                              |                        |
+| 65   | **MegNet**                                   | https://bit.ly/3bkNvuM |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
