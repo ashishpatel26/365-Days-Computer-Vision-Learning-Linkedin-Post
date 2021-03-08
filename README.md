@@ -70,7 +70,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 64   | **Cascade RCNN**                             | https://bit.ly/3uUDlZz |
 | 65   | **MegNet**                                   | https://bit.ly/3bkNvuM |
 | 66   | **StairNet**                                 | https://bit.ly/3bluE2P |
-|      |                                              |                        |
+| 67   | **ImageNet Rethinking**                      | https://bit.ly/3bqBfZZ |
 |      |                                              |                        |
 |      |                                              |                        |
 
