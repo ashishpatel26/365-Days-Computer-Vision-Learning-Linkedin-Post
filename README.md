@@ -71,6 +71,6 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 65   | **MegNet**                                   | https://bit.ly/3bkNvuM |
 | 66   | **StairNet**                                 | https://bit.ly/3bluE2P |
 | 67   | **ImageNet Rethinking**                      | https://bit.ly/3bqBfZZ |
-|      |                                              |                        |
+| 68   | **ERFNet**                                   | https://bit.ly/2OxgC5c |
 |      |                                              |                        |
 
