@@ -72,5 +72,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 66   | **StairNet**                                 | https://bit.ly/3bluE2P |
 | 67   | **ImageNet Rethinking**                      | https://bit.ly/3bqBfZZ |
 | 68   | **ERFNet**                                   | https://bit.ly/2OxgC5c |
-|      |                                              |                        |
+| 69   | **LayerCascade**                             | https://bit.ly/3qzWdd8 |
 
