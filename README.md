@@ -75,7 +75,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 69   | **LayerCascade**                             | https://bit.ly/3qzWdd8 |
 | 70   | **IDW-CNN**                                  | https://bit.ly/3letEAY |
 | 71   | **DIS**                                      | https://bit.ly/3vi3xh3 |
-|      |                                              |                        |
+| 72   | **SDN**                                      | https://bit.ly/3lftn0k |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
