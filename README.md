@@ -77,7 +77,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 71   | **DIS**                                      | https://bit.ly/3vi3xh3 |
 | 72   | **SDN**                                      | https://bit.ly/3lftn0k |
 | 73   | **ResNet-DUC-HDC**                           | https://bit.ly/3lmdhlN |
-|      |                                              |                        |
+| 74   | **Deeplabv3+**                               | https://bit.ly/3lfSRuR |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
