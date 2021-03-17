@@ -79,7 +79,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 73   | **ResNet-DUC-HDC**                           | https://bit.ly/3lmdhlN |
 | 74   | **Deeplabv3+**                               | https://bit.ly/3lfSRuR |
 | 75   | **AutoDeeplab**                              | https://bit.ly/2P14kSF |
-|      |                                              |                        |
+| 76   | **c3**                                       | https://bit.ly/3qX0yqK |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
