@@ -80,7 +80,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 74   | **Deeplabv3+**                               | https://bit.ly/3lfSRuR |
 | 75   | **AutoDeeplab**                              | https://bit.ly/2P14kSF |
 | 76   | **c3**                                       | https://bit.ly/3qX0yqK |
-|      |                                              |                        |
+| 77   | **DRRN**                                     | https://bit.ly/3ltkWP9 |
 |      |                                              |                        |
 |      |                                              |                        |
 
