@@ -81,6 +81,6 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 75   | **AutoDeeplab**                              | https://bit.ly/2P14kSF |
 | 76   | **c3**                                       | https://bit.ly/3qX0yqK |
 | 77   | **DRRN**                                     | https://bit.ly/3ltkWP9 |
-|      |                                              |                        |
-|      |                                              |                        |
+| 78   | **BR²Net**                                   | https://bit.ly/3f0jGlI |
+| 79   | **SDS**                                      | https://bit.ly/3f0CZLw |
 
