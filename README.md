@@ -86,7 +86,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 80   | **AdderNet**                                 | https://bit.ly/3sfMdYa |
 | 81   | **HyperColumn**                              | https://bit.ly/3vV7Jn5 |
 | 82   | **DeepMask**                                 | https://bit.ly/3cY2RVR |
-|      |                                              |                        |
+| 83   | **SharpMask**                                | https://bit.ly/3rg0h2r |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
