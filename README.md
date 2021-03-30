@@ -88,9 +88,9 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 82   | **DeepMask**                                 | https://bit.ly/3cY2RVR |
 | 83   | **SharpMask**                                | https://bit.ly/3rg0h2r |
 | 84   | **MultipathNet**                             | https://bit.ly/31fcTMR |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
+| 85   | **MNC**                                      | https://bit.ly/39rRXqj |
+| 86   | **InstanceFCN**                              | https://bit.ly/3wbQuy8 |
+| 87   | **FCIS**                                     | https://bit.ly/3dhPz6B |
+| 88   | **MaskLab**                                  | https://bit.ly/3wb3Vya |
+| 89   | **PANet**                                    | https://bit.ly/2PmQTNs |
 
