@@ -93,4 +93,13 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 87   | **FCIS**                                     | https://bit.ly/3dhPz6B |
 | 88   | **MaskLab**                                  | https://bit.ly/3wb3Vya |
 | 89   | **PANet**                                    | https://bit.ly/2PmQTNs |
+| 90   | **CUDMedVision1**                            | https://bit.ly/3rETZd1 |
+|      |                                              |                        |
+|      |                                              |                        |
+|      |                                              |                        |
+|      |                                              |                        |
+|      |                                              |                        |
+|      |                                              |                        |
+|      |                                              |                        |
+|      |                                              |                        |
 
