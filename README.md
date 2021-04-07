@@ -95,12 +95,12 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 89   | **PANet**                                    | https://bit.ly/2PmQTNs |
 | 90   | **CUDMedVision1**                            | https://bit.ly/3rETZd1 |
 | 91   | **CUDMedVision2**                            | https://bit.ly/3mago0q |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
+| 92   | **CFS-FCN**                                  | https://bit.ly/3cXP0zX |
+| 93   | **U-net+Res-net**                            | https://bit.ly/3mpKD3P |
+| 94   | **Multi-Channel**                            | https://bit.ly/2Q1WCbN |
+| 95   | **V-Net**                                    | https://bit.ly/3sYxGAt |
+| 96   | **3D-Unet**                                  | https://bit.ly/3uvNOcS |
+| 97   | **M²FCN**                                    | https://bit.ly/3cXSlPG |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
