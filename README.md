@@ -101,7 +101,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 95   | **V-Net**                                    | https://bit.ly/3sYxGAt |
 | 96   | **3D-Unet**                                  | https://bit.ly/3uvNOcS |
 | 97   | **M²FCN**                                    | https://bit.ly/3cXSlPG |
-|      |                                              |                        |
+| 98   | **Suggestive Annotation**                    | https://bit.ly/3t1UbV8 |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
