@@ -102,12 +102,12 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 96   | **3D-Unet**                                  | https://bit.ly/3uvNOcS |
 | 97   | **M²FCN**                                    | https://bit.ly/3cXSlPG |
 | 98   | **Suggestive Annotation**                    | https://bit.ly/3t1UbV8 |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
+| 99   | **3D Unet + Resnet**                         | https://bit.ly/3wRu3i9 |
+| 100  | **Cascade 3D-Unet**                          | https://bit.ly/3siNsEX |
+| 101  | **DenseVoxNet**                              | https://bit.ly/2RGliYd |
+| 102  | **QSA + QNT**                                | https://bit.ly/3wWtyDf |
+| 103  | **Attention-Unet**                           | https://bit.ly/3eaMNAK |
+| 104  | **RUNet + R2Unet**                           | https://bit.ly/2Q4bIxG |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
