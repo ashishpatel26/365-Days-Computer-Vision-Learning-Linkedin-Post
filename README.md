@@ -108,7 +108,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 102  | **QSA + QNT**                                | https://bit.ly/3wWtyDf |
 | 103  | **Attention-Unet**                           | https://bit.ly/3eaMNAK |
 | 104  | **RUNet + R2Unet**                           | https://bit.ly/2Q4bIxG |
-|      |                                              |                        |
+| 105  | **VoxResNet**                                | https://bit.ly/32gLBWN |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
