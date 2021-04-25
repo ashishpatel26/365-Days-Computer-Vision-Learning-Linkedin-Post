@@ -109,16 +109,16 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 103  | **Attention-Unet**                           | https://bit.ly/3eaMNAK |
 | 104  | **RUNet + R2Unet**                           | https://bit.ly/2Q4bIxG |
 | 105  | **VoxResNet**                                | https://bit.ly/32gLBWN |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
+| 106  | **Unet++**                                   | https://bit.ly/3esShGV |
+| 107  | **H-DenseUnet**                              | https://bit.ly/3dN53kn |
+| 108  | **DUnet**                                    | https://bit.ly/3sPYrWS |
+| 109  | **MultiResUnet**                             | https://bit.ly/32J7Epr |
+| 110  | **Unet3+**                                   | https://bit.ly/3vj4lRX |
+| 111  | **VGGNet For Covid19**                       | https://bit.ly/3ewquW6 |
+| 112  | 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁)                    | https://bit.ly/3tR67cM |
+| 113  | **Ki-Unet**                                  | https://bit.ly/3gD4wDK |
+| 114  | **Medical Transformer**                      | https://bit.ly/3dLw9Zf |
+| 115  |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
