@@ -118,7 +118,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 112  | 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁)                    | https://bit.ly/3tR67cM |
 | 113  | **Ki-Unet**                                  | https://bit.ly/3gD4wDK |
 | 114  | **Medical Transformer**                      | https://bit.ly/3dLw9Zf |
-| 115  |                                              |                        |
+| 115  | **Deep Snake- Instance Segmentation**        | https://bit.ly/3dQmdhm |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
