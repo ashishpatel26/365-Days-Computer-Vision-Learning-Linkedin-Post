@@ -120,7 +120,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 114  | **Medical Transformer**                      | https://bit.ly/3dLw9Zf |
 | 115  | **Deep Snake- Instance Segmentation**        | https://bit.ly/3dQmdhm |
 | 116  | **BlendMask**                                | https://bit.ly/32LVXyf |
-|      |                                              |                        |
+| 117  | **CenterNet**                                | https://bit.ly/3aJrJQD |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
