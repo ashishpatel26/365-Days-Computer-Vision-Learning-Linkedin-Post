@@ -121,9 +121,9 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 115  | **Deep Snake- Instance Segmentation**        | https://bit.ly/3dQmdhm |
 | 116  | **BlendMask**                                | https://bit.ly/32LVXyf |
 | 117  | **CenterNet**                                | https://bit.ly/3aJrJQD |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
+| 118  | **SRCNN**                                    | https://bit.ly/3t82eie |
+| 119  | **Swin Transformer**                         | https://bit.ly/2QMWxct |
+| 120  | **Polygon-RNN**                              | https://bit.ly/3ujEJ7D |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
