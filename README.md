@@ -125,9 +125,9 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 119  | **Swin Transformer**                         | https://bit.ly/2QMWxct |
 | 120  | **Polygon-RNN**                              | https://bit.ly/3ujEJ7D |
 | 121  | **PolyTransform**                            | https://bit.ly/3gT11ZZ |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
+| 122  | **D2Det**                                    | https://bit.ly/3b2EDJL |
+| 123  | **PolarMask**                                | https://bit.ly/3uklSsO |
+| 124  | **FGN**                                      | https://bit.ly/3uiyyAl |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
