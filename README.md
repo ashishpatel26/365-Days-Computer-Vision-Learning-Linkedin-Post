@@ -128,7 +128,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 122  | **D2Det**                                    | https://bit.ly/3b2EDJL |
 | 123  | **PolarMask**                                | https://bit.ly/3uklSsO |
 | 124  | **FGN**                                      | https://bit.ly/3uiyyAl |
-|      |                                              |                        |
+| 125  | **Meta-SR**                                  | https://bit.ly/3ekFyr9 |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
