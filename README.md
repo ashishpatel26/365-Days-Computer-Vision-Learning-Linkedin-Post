@@ -129,7 +129,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 123  | **PolarMask**                                | https://bit.ly/3uklSsO |
 | 124  | **FGN**                                      | https://bit.ly/3uiyyAl |
 | 125  | **Meta-SR**                                  | https://bit.ly/3ekFyr9 |
-|      |                                              |                        |
+| 126  | **Iterative Kernel Correlation**             | https://bit.ly/3xPGZp6 |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
