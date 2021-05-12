@@ -130,12 +130,12 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 124  | **FGN**                                      | https://bit.ly/3uiyyAl |
 | 125  | **Meta-SR**                                  | https://bit.ly/3ekFyr9 |
 | 126  | **Iterative Kernel Correlation**             | https://bit.ly/3xPGZp6 |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
+| 127  | **SRFBN**                                    | https://bit.ly/2Qc1c7z |
+| 128  | **ODE**                                      | https://bit.ly/3w1K8k4 |
+| 129  | **SRNTT**                                    | https://bit.ly/2RNT9hS |
+| 130  | **Parallax Attention**                       | https://bit.ly/3tIr74x |
+| 131  | **3D Super Resolution**                      | https://bit.ly/33BC4u5 |
+| 132  |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
