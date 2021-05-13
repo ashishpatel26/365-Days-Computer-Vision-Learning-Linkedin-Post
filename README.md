@@ -138,7 +138,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 130  | **Parallax Attention**                       | https://bit.ly/3tIr74x |
 | 131  | **3D Super Resolution**                      | https://bit.ly/3bliXJa |
 | 132  | **FSTRN**                                    | https://bit.ly/3uWJ8h7 |
-|      |                                              |                        |
+| 133  | **PointGroup**                               | https://bit.ly/2QfeKPP |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
