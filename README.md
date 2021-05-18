@@ -143,7 +143,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 135  | **Saliency Propagation**                     |                 https://bit.ly/3tXTvj4 |
 | 136  | **Libra R-CNN**                              | https://bit.ly/3hDytnt |
 | 137  | **SiamRPN++**                                | https://bit.ly/33TNjyi |
-|      |                                              |                        |
+| 138 | **LoFTR** | https://bit.ly/3eUtlJS |
 |      |                                              |                        |
 |      |                                              |                        |
 |      |                                              |                        |
