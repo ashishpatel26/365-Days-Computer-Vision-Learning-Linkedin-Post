@@ -144,7 +144,15 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 136  | **Libra R-CNN**                              | https://bit.ly/3hDytnt |
 | 137  | **SiamRPN++**                                | https://bit.ly/33TNjyi |
 | 138 | **LoFTR** | https://bit.ly/3eUtlJS |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
-|      |                                              |                        |
+| 139 | **MZSR** | https://bit.ly/3ul5gAs |
+| 140 | **UCTGAN** | https://bit.ly/3fQg9ox |
+| 141 | **OccuSeg** | https://bit.ly/3bUJtta |
+| 142 | **LAPGAN** | https://bit.ly/3unOjW1 |
+| 143 | **TPN** | https://bit.ly/3vvyIoW |
+| 144 | **GTAD** | https://bit.ly/3c09yqK |
+| 145 | **SlowFast** | https://bit.ly/3fMrI0d |
+| 146 | **IDU** | https://bit.ly/2ROcIa5 |
+| 147 | | |
+| 148 | | |
+| 149 | | |
+| 150 | | |
