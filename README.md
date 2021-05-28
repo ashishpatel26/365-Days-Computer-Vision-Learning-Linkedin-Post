@@ -153,6 +153,6 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 145 | **SlowFast** | https://bit.ly/3fMrI0d |
 | 146 | **IDU** | https://bit.ly/2ROcIa5 |
 | 147 | **ATSS** | https://bit.ly/3hTIflC |
-| 148 | | |
+| 148 | **Attension-RPN** | https://bit.ly/3oYescY |
 | 149 | | |
 | 150 | | |
