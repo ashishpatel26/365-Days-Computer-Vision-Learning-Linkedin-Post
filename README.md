@@ -153,6 +153,11 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 145 | **SlowFast** | https://bit.ly/3fMrI0d |
 | 146 | **IDU** | https://bit.ly/2ROcIa5 |
 | 147 | **ATSS** | https://bit.ly/3hTIflC |
-| 148 | **Attension-RPN** | https://bit.ly/3oYescY |
-| 149 | | |
-| 150 | | |
+| 148 | **Attention-RPN** | https://bit.ly/3oYescY |
+| 149 | **Aug-FPN**                                  | https://bit.ly/3fUbdzi |
+| 150 | **Hit-Detector** | https://bit.ly/3uGCLgB |
+| 151 | **MCN** | https://bit.ly/3ySpjtq |
+| 152 |  |  |
+| 153 |  |  |
+| 154 |  |  |
+| 155 |  |  |
