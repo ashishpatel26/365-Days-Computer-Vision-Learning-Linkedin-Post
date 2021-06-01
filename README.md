@@ -157,7 +157,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 149 | **Aug-FPN**                                  | https://bit.ly/3fUbdzi |
 | 150 | **Hit-Detector** | https://bit.ly/3uGCLgB |
 | 151 | **MCN** | https://bit.ly/3ySpjtq |
-| 152 |  |  |
+| 152 | **CentripetalNet** | https://bit.ly/2S1WNVB |
 | 153 |  |  |
 | 154 |  |  |
 | 155 |  |  |
