@@ -160,5 +160,10 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 152 | **CentripetalNet** | https://bit.ly/2S1WNVB |
 | 153 | **ROAM** | https://bit.ly/34Ft8Ex |
 | 154 | **PF-NET(3D)** | https://bit.ly/2TzQiK9 |
-| 155 |  |  |
+| 155 | **PointAugment** | https://bit.ly/3uMc8Hr |
+| 156 |  |  |
+| 157 |  |  |
+| 158 |  |  |
+| 159 |  |  |
+| 160 |  |  |
 
