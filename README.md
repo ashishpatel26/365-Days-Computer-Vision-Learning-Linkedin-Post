@@ -161,9 +161,9 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 153 | **ROAM** | https://bit.ly/34Ft8Ex |
 | 154 | **PF-NET(3D)** | https://bit.ly/2TzQiK9 |
 | 155 | **PointAugment** | https://bit.ly/3uMc8Hr |
-| 156 |  |  |
-| 157 |  |  |
-| 158 |  |  |
+| 156 | **C-Flow** | https://bit.ly/3xgDlUn |
+| 157 | **RandLA-Net** | https://bit.ly/3fYajD9 |
+| 158 | **Total3DUnderStanding** | https://bit.ly/3v3jy9c |
 | 159 |  |  |
 | 160 |  |  |
 
