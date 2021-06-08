@@ -164,6 +164,6 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 156 | **C-Flow** | https://bit.ly/3xgDlUn |
 | 157 | **RandLA-Net** | https://bit.ly/3fYajD9 |
 | 158 | **Total3DUnderStanding** | https://bit.ly/3v3jy9c |
-| 159 |  |  |
+| 159 | **IF-Nets** | https://bit.ly/3v7XjPj |
 | 160 |  |  |
 
