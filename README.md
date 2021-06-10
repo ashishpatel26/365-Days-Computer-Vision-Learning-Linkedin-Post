@@ -165,5 +165,15 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 157 | **RandLA-Net** | https://bit.ly/3fYajD9 |
 | 158 | **Total3DUnderStanding** | https://bit.ly/3v3jy9c |
 | 159 | **IF-Nets** | https://bit.ly/3v7XjPj |
-| 160 |  |  |
+| 160 | **PerfectShape** | https://bit.ly/3za20vk |
+| 161 | **ACNe** | https://bit.ly/3gaJQSN |
+| 162 |  |  |
+| 163 |  |  |
+| 164 |  |  |
+| 165 |  |  |
+| 166 |  |  |
+| 167 |  |  |
+| 168 |  |  |
+| 169 |  |  |
+| 170 |  |  |
 
