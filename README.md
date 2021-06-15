@@ -168,10 +168,10 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 160 | **PerfectShape** | https://bit.ly/3za20vk |
 | 161 | **ACNe** | https://bit.ly/3gaJQSN |
 | 162 | **PQ-Net** | https://bit.ly/35dVPsm |
-| 163 |  |  |
-| 164 |  |  |
-| 165 |  |  |
-| 166 |  |  |
+| 163 | **SG-NN** | https://bit.ly/3iQ4yca |
+| 164 | **Cascade Cost Volume** | https://bit.ly/3gyZHtt |
+| 165 | **SketchGCN** | https://bit.ly/3pVoxI8 |
+| 166 | **Spektral (Graph Neural Network)** | https://bit.ly/3q2T079 |
 | 167 |  |  |
 | 168 |  |  |
 | 169 |  |  |
