@@ -173,7 +173,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 165 | **SketchGCN** | https://bit.ly/3pVoxI8 |
 | 166 | **Spektral (Graph Neural Network)** | https://bit.ly/3q2T079 |
 | 167 | **Graph Convolution Neural Network** | https://bit.ly/3gAkiNX |
-| 168 |  |  |
-| 169 |  |  |
+| 168 | **Fast Localized Spectral Filtering(Graph Kernel)** | https://bit.ly/3iRUEa0 |
+| 169 | **GraphSAGE** | https://bit.ly/3gCj9Xx |
 | 170 |  |  |
 
