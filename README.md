@@ -175,5 +175,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 167 | **Graph Convolution Neural Network** | https://bit.ly/3gAkiNX |
 | 168 | **Fast Localized Spectral Filtering(Graph Kernel)** | https://bit.ly/3iRUEa0 |
 | 169 | **GraphSAGE** | https://bit.ly/3gCj9Xx |
-| 170 |  |  |
+| 170 | **ARMA Convolution** | https://bit.ly/3qcubpC |
 
