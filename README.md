@@ -176,4 +176,14 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 168 | **Fast Localized Spectral Filtering(Graph Kernel)** | https://bit.ly/3iRUEa0 |
 | 169 | **GraphSAGE** | https://bit.ly/3gCj9Xx |
 | 170 | **ARMA Convolution** | https://bit.ly/3qcubpC |
+| 171 | **Graph Attention Networks** | https://bit.ly/3h1gfKy |
+| 172 | **Axial-Deeplab** | https://bit.ly/3qiIF7l |
+| 173 | **Tide** | https://bit.ly/3j5evmh |
+| 174 | **SipMask** | https://bit.ly/3gMBoJE |
+| 175 |  |  |
+| 176 |  |  |
+| 177 |  |  |
+| 178 |  |  |
+| 179 |  |  |
+| 180 |  |  |
 
