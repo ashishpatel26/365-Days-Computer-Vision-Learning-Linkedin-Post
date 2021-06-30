@@ -185,5 +185,6 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 177 | **AABO** : **Adaptive Anchor Box Optimization** | https://bit.ly/3qCSRaP |
 | 178 | **SimAug** | https://bit.ly/3dlV6tK |
 | 179 | **Instant-teaching** | https://bit.ly/3h0E2LU |
-| 180 |  |  |
+| 180 | **Refinement Network for RGB-D** | https://bit.ly/3dtRh5O |
+| 181 | **Polka Lines** | https://bit.ly/3hlNbhd |
 
