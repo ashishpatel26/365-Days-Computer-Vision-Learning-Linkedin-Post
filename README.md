@@ -188,4 +188,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 180 | **Refinement Network for RGB-D** | https://bit.ly/3dtRh5O |
 | 181 | **Polka Lines** | https://bit.ly/3hlNbhd |
 | 182 | **HOTR** | https://bit.ly/3hsV44i |
+| 183 | **Soft-IntroVAE** | https://bit.ly/3jFozTk |
 
