@@ -198,11 +198,11 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 190 | **AdvPC** | https://bit.ly/3i3dGrV |
 | 191 | **Eagle eye** | https://bit.ly/3e5Iqaz |
 | 192 | **Deep Hough Transform** | https://bit.ly/2UEFbAm |
-| 193 |  |  |
-| 194 |  |  |
-| 195 |  |  |
-| 196 |  |  |
-| 197 |  |  |
+| 193 | **WeightNet** | https://bit.ly/3rfDSUL |
+| 194 | **StyleMAPGAN** | https://bit.ly/2URgPTO |
+| 195 | **PD-GAN** | https://bit.ly/3xQMCmM |
+| 196 | **Non-Local Sparse Attention** | https://bit.ly/3xJZbAd |
+| 197 | **TediGAN** | https://bit.ly/3wH67MZ |
 | 198 |  |  |
 | 199 |  |  |
 | 200 |  |  |
