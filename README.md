@@ -203,7 +203,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 195 | **PD-GAN** | https://bit.ly/3xQMCmM |
 | 196 | **Non-Local Sparse Attention** | https://bit.ly/3xJZbAd |
 | 197 | **TediGAN** | https://bit.ly/3wH67MZ |
-| 198 |  |  |
-| 199 |  |  |
-| 200 |  |  |
+| 198 | **FedDG** | https://bit.ly/3zfKiGe |
+| 199 | **Auto-Exposure Fusion** | https://bit.ly/3y3F2W1 |
+| 200 | **Involution** | https://bit.ly/36Ksiaz |
 
