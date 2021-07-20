@@ -206,4 +206,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 198 | **FedDG** | https://bit.ly/3zfKiGe |
 | 199 | **Auto-Exposure Fusion** | https://bit.ly/3y3F2W1 |
 | 200 | **Involution** | https://bit.ly/36Ksiaz |
+| 201 | **MutualNet** | https://bit.ly/3zhfd4N |
 
