@@ -207,4 +207,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 199 | **Auto-Exposure Fusion** | https://bit.ly/3y3F2W1 |
 | 200 | **Involution** | https://bit.ly/36Ksiaz |
 | 201 | **MutualNet** | https://bit.ly/3zhfd4N |
+| 202 | **Teachers do more than teach - Image to Image translation** | https://bit.ly/36RP28K |
+| 203 | **VideoMoCo** | https://bit.ly/3f6Pq7Z |
+| 204 | **ArtGAN** | https://bit.ly/3rvDCB9 |
 
