@@ -210,4 +210,10 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 202 | **Teachers do more than teach - Image to Image translation** | https://bit.ly/36RP28K |
 | 203 | **VideoMoCo** | https://bit.ly/3f6Pq7Z |
 | 204 | **ArtGAN** | https://bit.ly/3rvDCB9 |
+| 205 | **Vip-DeepLab** | https://bit.ly/3xmzmVX |
+| 206 | **PSConvolution** | https://bit.ly/3rEIgMY |
+| 207 | **Deep learning technique on Semantic Segmentation** | https://bit.ly/375hrID |
+| 208 | **Synthetic to Real** | https://bit.ly/3yfZSRO |
+| 209 | **Panoptic Segmentation** | https://bit.ly/376tbdA |
+| 210 | **HistoGAN** | https://bit.ly/3zSYyVD |
 
