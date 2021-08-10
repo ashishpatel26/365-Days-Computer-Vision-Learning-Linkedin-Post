@@ -216,4 +216,16 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 208 | **Synthetic to Real** | https://bit.ly/3yfZSRO |
 | 209 | **Panoptic Segmentation** | https://bit.ly/376tbdA |
 | 210 | **HistoGAN** | https://bit.ly/3zSYyVD |
+| 211 | **Semantic Image Matting** | https://bit.ly/3s5ZD9F |
+| 212 | **Anchor-Free Person Search** | https://bit.ly/2VI0KAD |
+| 213 | **Spatial-Phase-Shallow-Learning** | https://bit.ly/3CDAl82 |
+| 214 | **LiteFlowNet3** | https://bit.ly/3yDILcO |
+| 215 | **EfficientNetv2** | https://bit.ly/3xAQsiE |
+| 216 | **CBNETv2** | https://bit.ly/3s3ptvb |
+| 217 | **PerPixel Classification** | https://bit.ly/3lOomyg |
+| 218 | **Kaleido-BERT** | https://bit.ly/3ywh2Lf |
+| 219 | **DARKGAN** | https://bit.ly/3lTW05J |
+| 220 | **PPDM** | https://bit.ly/3lPgjBt |
+| 221 | **SEAN** | https://bit.ly/3yOUJ3L |
+| 222 | **Closed-Loop Matters** | https://bit.ly/3CzBnlq |
 
