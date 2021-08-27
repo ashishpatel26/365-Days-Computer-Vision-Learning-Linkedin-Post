@@ -228,4 +228,22 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 220 | **PPDM** | https://bit.ly/3lPgjBt |
 | 221 | **SEAN** | https://bit.ly/3yOUJ3L |
 | 222 | **Closed-Loop Matters** | https://bit.ly/3CzBnlq |
+| 223 | **Elastic Graph Neural Network** | https://bit.ly/3jket9S |
+| 224 | **Deep Imbalance Regression** | https://bit.ly/3yn0Ue3 |
+| 225 | **PIPAL** - Image Quality Assessment | https://bit.ly/3gCliSx |
+| 226 | **Mobile-Former** | https://bit.ly/3kxCSbm |
+| 227 | **Rank and Sort Loss** | https://bit.ly/3sPQt1s |
+| 228 | **Room Classification using Graph Neural Network** | https://bit.ly/3gD8Odv |
+| 229 | **Pyramid Vision Transformer** | https://bit.ly/3zmod9h |
+| 230 | **EigenGAN** | https://bit.ly/3BfdIVO |
+| 231 | **GNeRF** | https://bit.ly/3mD3kTR |
+| 232 | **DetCo** | https://bit.ly/3sQiRk9 |
+| 233 | **DERT with Special Modulated Co-Attention**                 | https://bit.ly/3sPQ5jw |
+|      | **Residual Attention** | https://bit.ly/3yni4bJ |
+| 235 | **MG-GAN** | https://bit.ly/3mD30o7 |
+| 236 | **Adaptable GAN Encoders** | https://bit.ly/3yh4XJ3 |
+| 237 | **AdaAttN** | https://bit.ly/3BepKPa |
+| 238 | **Conformer** | https://bit.ly/3gCkj4N |
+| 239 | **YOLOP** | https://bit.ly/3BicysB |
+| 240 |  |  |
 
