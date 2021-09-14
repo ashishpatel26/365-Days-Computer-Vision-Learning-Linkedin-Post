@@ -262,5 +262,9 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 254 | **XVFI** | https://bit.ly/3lrOpcZ |
 | 255 | **TxT** | https://bit.ly/3tGFlEH |
 | 256 | **ConvMLP** | https://bit.ly/2XlE8Xu |
-| 257 |  |  |
+| 257 | **Cross Domain Contrastive Learning** | https://bit.ly/3tDb2id |
+
+***Thanks for Reading🎉🎉🎉🎉***
+
+----
 
