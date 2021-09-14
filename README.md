@@ -245,5 +245,22 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 237 | **AdaAttN** | https://bit.ly/3BepKPa |
 | 238 | **Conformer** | https://bit.ly/3gCkj4N |
 | 239 | **YOLOP** | https://bit.ly/3BicysB |
-| 240 |  |  |
+| 240 | **VMNet** | https://bit.ly/3k73jFZ |
+| 241 | **Airbert** | https://bit.ly/3nvcrGs |
+| 242 | 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗥-𝗖𝗡𝗡 | https://bit.ly/397Zius |
+| 243 | **Battle of Network Structure** | https://bit.ly/2XcHbB0 |
+| 244 | **InSeGAN** | https://bit.ly/3z9wyMF |
+| 245 | **Efficient Person Search** | https://bit.ly/3CpbZOr |
+| 246 | **DeepGCNs** | https://bit.ly/3AevSHg |
+| 247 | **GroupFormer** | https://bit.ly/3lqzm2Y |
+| 248 | **SLIDE** | https://bit.ly/3hwpiEp |
+| 249 | **Super Neuron** | https://bit.ly/3zkXE3D |
+| 250 | **SOTR** | https://bit.ly/3hvqCYl |
+| 251 | **Survey : Instance Segmentation** | https://bit.ly/3k90xQB |
+| 252 | **SO-Pose** | https://bit.ly/3C56KD8 |
+| 253 | **CANet** | https://bit.ly/2XlDKZ2 |
+| 254 | **XVFI** | https://bit.ly/3lrOpcZ |
+| 255 | **TxT** | https://bit.ly/3tGFlEH |
+| 256 | **ConvMLP** | https://bit.ly/2XlE8Xu |
+| 257 |  |  |
 
