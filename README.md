@@ -263,6 +263,19 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 255 | **TxT** | https://bit.ly/3tGFlEH |
 | 256 | **ConvMLP** | https://bit.ly/2XlE8Xu |
 | 257 | **Cross Domain Contrastive Learning** | https://bit.ly/3tDb2id |
+| 258 | **OS2D: One Stage Object Detection** | https://bit.ly/3ufnEMD |
+| 259 | **PointManifoldCut** | https://bit.ly/3CKvAIL |
+| 260 | **Large Scale Facial Expression Dataset** | https://bit.ly/2ZqtT4V |
+| 261 | **Graph-FPN** | https://bit.ly/2XH8T9f |
+| 262 | **3D Shape Reconstruction** | https://bit.ly/2XTe9aq |
+| 263 | **Open Graph Benchmark Dataset** | https://bit.ly/3ET2Lfl |
+| 264 | **ShiftAddNet** | https://bit.ly/3i6eb5C |
+| 265 | **WatchOut! Motion Blurring the vision of your DNN** | https://bit.ly/3CKTzrw |
+| 266 | **Rethinking Learnable Tree Filter** | https://bit.ly/3zHfPAC |
+| 267 | **Neuron Merging** | https://bit.ly/39DwLNS |
+| 268 | **Distance IOU Loss** | https://bit.ly/3i7Zj6z |
+| 269 |  |  |
+| 270 |  |  |
 
 ***Thanks for Reading🎉🎉🎉🎉***
 
