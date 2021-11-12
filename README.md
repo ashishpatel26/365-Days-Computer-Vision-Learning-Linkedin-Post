@@ -291,20 +291,41 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 283 | **Convolution to Transformer** | https://bit.ly/3v5yy8f |
 | 284 | **HeadGAN** | https://bit.ly/3BLzRvm |
 | 285 | **Focal Transformer** | https://bit.ly/3lvCYSI |
-| 286 | | |
-| 287 | | |
-| 288 | | |
-| 289 | | |
-| 290 | | |
-| 291 | | |
-| 292 | | |
-| 293 | | |
-| 294 | | |
-| 295 | | |
-| 296 | | |
-| 297 | | |
-| 299 | | |
-| 300 | | |
+| 286 | **StyleGAN3** | https://bit.ly/3kvFPKw |
+| 287 | **3Detr:3D Object Detection** | https://bit.ly/3Hfk6A8 |
+| 288 | **Do Self-Supervised and Supervised Methods Learn Similar Visual Representations?** | https://bit.ly/3kyWM6H |
+| 289 | **Back to the Features** | https://bit.ly/3kvsxh3 |
+| 290 | **Anticipative Video Transformer** | https://bit.ly/30mADl2 |
+| 291 | **Attention Meets Geometry** | https://bit.ly/3kweSpZ |
+| 292 | **DeepMoCaP:** Deep Optical Motion Capture | https://bit.ly/30mjTdT |
+| 293 | **TrOCR: Transformer-based Optical Character Recognition ** | https://bit.ly/3DqenW5 |
+| 294 | **Moving Fashion** | https://bit.ly/2YGtjA1 |
+| 295 | **StyleNeRF** | https://bit.ly/31W4Mbz |
+| 296 | **ECA-Net: :Efficient Channel Attention ** | https://bit.ly/3n92i1s |
+| 297 | **Inferring High Resolution Traffic Accident risk maps** | https://bit.ly/3HgovD6 |
+| 298 | **Bias Loss: For Mobile Neural Network** | https://bit.ly/3qvBPNO |
+| 299 | **ByteTrack: Multi-Object Tracking** | https://bit.ly/3c3l7wQ |
+| 300 | **Non-Deep Network** | https://bit.ly/3qwZwoV |
+| 301 | **Temporal Attentive Covariance** | https://bit.ly/3ontCbP |
+| 302 | **Plan-then-generate: Controlled Data to Text Generation** | https://bit.ly/3DcbsA6 |
+| 303 | **Dynamic Visual Reasoning** | https://bit.ly/31Q4BhP |
+| 304 | **MedMNIST: Medical MNIST Dataset** | https://bit.ly/3qxuqxq |
+| 305 | **Colossal-AI: A PyTorch-Based Deep Learning System For Large-Scale Parallel Training** | https://bit.ly/3wG6Xv8 |
+| 306 | **Recursively Embedded Atom Neural Network(REANN)** | https://bit.ly/3F1JKqe |
+| 307 | **PolyTrack: for fast multi-object tracking and segmentation** | https://bit.ly/3DeBmmS |
+| 308 | **Can contrastive learning avoid shortcut solutions?** | https://bit.ly/3wHJIk9 |
+| 309 | **ProjectedGAN:  To Improve Image Quality** | https://bit.ly/30hw8Zm |
+| 310 | **Arch-Net:  A Family Of Neural Networks Built With Operators To Bridge The Gap ** | https://bit.ly/3oFOCef |
+| 311 | **PP-ShiTu:A Practical Lightweight Image Recognition System** | https://bit.ly/3naurFw |
+| 312 | **EditGAN** | https://bit.ly/30gYd2Z |
+| 313 | **Panoptic 3D Scene Segmentation** | https://bit.ly/3caSvla |
+| 314 | **PARP: Improve the Efficiency of NN** | https://bit.ly/3DakTjt |
+| 315 | **WORD: Organ Segmentation Dataset** | https://bit.ly/3qv5OW2 |
+| 316 | **DenseULearn** | https://bit.ly/3ohRiyi |
+| 317 | | |
+| 318 | | |
+| 319 | | |
+| 320 |  | |
 
 ***Thanks for Reading🎉🎉🎉🎉***
 
