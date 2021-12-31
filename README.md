@@ -322,10 +322,55 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 314 | **PARP: Improve the Efficiency of NN** | https://bit.ly/3DakTjt |
 | 315 | **WORD: Organ Segmentation Dataset** | https://bit.ly/3qv5OW2 |
 | 316 | **DenseULearn** | https://bit.ly/3ohRiyi |
-| 317 | | |
-| 318 | | |
-| 319 | | |
-| 320 |  | |
+| 317 | **Does Thermal data make the detection systems more reliable?** | https://bit.ly/3sQgTSO |
+| 318 | **MADDNESS: Approximate Matrix Multiplication (AMM)** | https://bit.ly/3zgVIL4 |
+| 319 | **Deceive D: Adaptive Pseudo Augmentation** | https://bit.ly/3sIG6yA |
+| 320 | **OadTR** | https://bit.ly/3JsUHUF |
+| 321 | **OnePassImageNet** | https://bit.ly/3sKL6Ti |
+| 322 | **Image-specific Convolutional Kernel Modulation for Single Image Super-resolution** | https://bit.ly/3FUpA20 |
+| 323 | **TransMix** | https://bit.ly/3EH93gH |
+| 324 | **PytorchVideo** | https://bit.ly/3JvgDP7 |
+| 325 | **MetNet-2** | https://bit.ly/3sMZb2M |
+| 326 | **Unsupervised deep learning identifies semantic disentanglement** | https://bit.ly/3JyAwVi |
+| 327 | **Story Visualization** | https://bit.ly/3qB554i |
+| 328 | **MetaFormer** | https://bit.ly/3sLBebP |
+| 329 | **GauGAN2** | https://bit.ly/3pGrIVH |
+| 330 | **SciGAP** | https://bit.ly/3EB7e4U |
+| 331 | **Generative Flow Networks (GFlowNets)** | https://bit.ly/3Jv9YEz |
+| 332 | **Ensemble Inversion** | https://bit.ly/3ECwbg9 |
+| 333 | **SAVi** | https://bit.ly/3eF6txe |
+| 334 | **Digital Optical Neural Network** | https://bit.ly/3EI07rh |
+| 335 | **Image-Generation Research With Manifold Matching Via Metric Learning** | https://bit.ly/3FUomnq |
+| 336 | **GHN-2(Graph HyperNetworks)** | https://bit.ly/3qzc5yB |
+| 337 | **NeatNet** | https://bit.ly/3sLY17r |
+| 338 | **NeuralProphet** | https://bit.ly/3JrUK38 |
+| 339 | **Background Activation Suppression for Weakly Supervised Object Detection** | https://bit.ly/3Jvyzt2 |
+| 340 | **Learning to Detect Every Thing in an Open World** | https://bit.ly/3mKxOTc |
+| 341 | **PoolFormer** | https://bit.ly/3qFHNtS |
+| 342 | **GLIP** | https://bit.ly/3mK3bgx |
+| 343 | **PHALP** | https://bit.ly/3eJJvEV |
+| 344 | **PixMix** | https://bit.ly/3Hqh77m |
+| 345 | **CodeNet** | https://bit.ly/32RPx3X |
+| 346 | **GANgealing** | https://bit.ly/3EIkO6k |
+| 347 | **Semantic Diffusion Guidance** | https://bit.ly/3JsNzI3 |
+| 348 | **TokenLearner** | https://bit.ly/3mLG4lM |
+| 349 | **Temporal Fusion Transformer (TFT)** | https://bit.ly/3JuHcno |
+| 350 | **HiClass: Evaluation Metrics for Local Hierarchical Classification** | https://bit.ly/3JHmn8H |
+| 351 | **Stable Long Term Recurrent Video Super Resolution** | https://bit.ly/3qFlPHl |
+| 352 | **AdaViT** | https://bit.ly/3eDASMj |
+| 353 | **Few-Shot Learner (FSL)** | https://bit.ly/3ELOOym |
+| 354 | **Exemplar Transformers** | https://bit.ly/3qzJE3C |
+| 355 | **StyleSwin** | https://bit.ly/3HqkCe4 |
+| 356 | **RepMLNet** | https://bit.ly/32DxbUu |
+| 357 | **2 Stage Unet** | https://bit.ly/3JGjIMq |
+| 358 | **Untrained Deep NN** | https://bit.ly/3JplL7r |
+| 359 | **SeMask** | https://bit.ly/3zfouM8 |
+| 360 | **JoJoGAN** | https://bit.ly/31gl9Qi |
+| 361 | **ELSA** | https://bit.ly/3mLWScb |
+| 362 | **PRIME** | https://bit.ly/3FI14RZ |
+| 363 | **GLIDE** | https://bit.ly/31ixB20 |
+| 364 | **StyleGAN-V** | https://bit.ly/3Jvx91G |
+| 365 | | |
 
 ***Thanks for Reading🎉🎉🎉🎉***
 
