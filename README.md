@@ -370,7 +370,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 362 | **PRIME** | https://bit.ly/3FI14RZ |
 | 363 | **GLIDE** | https://bit.ly/31ixB20 |
 | 364 | **StyleGAN-V** | https://bit.ly/3Jvx91G |
-| 365 | | |
+| 365 | **SLIP: Self-supervision meets Language-Image Pre-training** | https://bit.ly/3qAjL3r |
 
 ***Thanks for Reading🎉🎉🎉🎉***
 
