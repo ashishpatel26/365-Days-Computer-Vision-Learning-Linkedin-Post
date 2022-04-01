@@ -371,6 +371,94 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 363 | **GLIDE** | https://bit.ly/31ixB20 |
 | 364 | **StyleGAN-V** | https://bit.ly/3Jvx91G |
 | 365 | **SLIP: Self-supervision meets Language-Image Pre-training** | https://bit.ly/3qAjL3r |
+| 366 | **SmoothNet: A Plug-and-Play Network for Refining Human Poses in Videos** | https://bit.ly/3tYNxlp |
+| 367 | **Multi-View Partial (MVP) Point Cloud Challenge 2021 on Completion and Registration: Methods and Results** | https://bit.ly/3tZFyEQ |
+| 368 | **PCACE: A Statistical Approach to Ranking Neurons for CNN Interpretability** | https://bit.ly/3LCKENk |
+| 369 | **Vision Transformer with Deformable Attention** | https://bit.ly/3tY3s3k |
+| 370 | **A Transformer-Based Siamese Network for Change Detection** | https://bit.ly/3DxPYP5 |
+| 371 | **Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention** | https://bit.ly/3qRsTle |
+| 372 | **SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection** | https://bit.ly/3tXduls |
+| 373 | **HyperionSolarNet: Solar Panel Detection from Aerial Images** | https://bit.ly/35v2rX6 |
+| 374 | **Realistic Full-Body Anonymization with Surface-Guided GANs** | https://bit.ly/3DwBNd4 |
+| 375 | **Generalized Category Discovery** | https://bit.ly/3IZ1HaC |
+| 376 | **KerGNNs: Interpretable Graph Neural Networks with Graph Kernels** | https://bit.ly/3DtWtlU |
+| 377 | **Optimization Planning for 3D ConvNets** | https://bit.ly/3K38e5p |
+| 378 | **gDNA: Towards Generative Detailed Neural Avatars** | https://bit.ly/3DEtFHC |
+| 379 | **SeamlessGAN: Self-Supervised Synthesis of Tileable Texture Maps** | https://bit.ly/3NIieTA |
+| 380 | **HYDLA: Domain Adaptation in LiDAR Semantic Segmentation via Alternating Skip Connections and Hybrid Learning** | https://bit.ly/379dy8v |
+| 381 | **HardBoost: Boosting Zero-Shot Learning with Hard Classes** | https://bit.ly/379diX5 |
+| 382 | **DDU-Net: Dual-Decoder-U-Net for Road Extraction Using High-Resolution Remote Sensing Images** | https://bit.ly/3Lu0UzU |
+| 383 | **Q-ViT: Fully Differentiable Quantization for Vision Transformer** | https://bit.ly/3qXv9Ym |
+| 384 | **SPAMs: Structured Implicit Parametric Models** | https://bit.ly/3iU95cL |
+| 385 | **GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry** | https://bit.ly/3qUwCP6 |
+| 386 | **Improving language models by retrieving from trillions of tokens** | https://bit.ly/37aKsG5 |
+| 387 | **StylEx finds and visualizes disentangled attributes that affect a classifier automatically.** | https://bit.ly/3qYwYEf |
+| 388 | **‘ReLICv2’: Pushing The Limits of Self-Supervised ResNet** | https://bit.ly/3JZXy7C |
+| 389 | **‘Detic’: A Method to Detect Twenty-Thousand Classes using Image-Level Supervision** | https://bit.ly/3iRtsqZ |
+| 390 | **Momentum Capsule Networks** | https://bit.ly/3NFDv0j |
+| 391 | **RelTR: Relation Transformer for Scene Graph Generation** | https://bit.ly/3iVBWgB |
+| 392 | **Transformer based SAR Images Despecking** | https://bit.ly/3qWeILH |
+| 393 | **ResiDualGAN: Resize-Residual DualGAN for Cross-Domain Remote Sensing Images Semantic Segmentation** | https://bit.ly/3wWGY4T |
+| 394 | **VRT: A Video Restoration Transformer** | https://bit.ly/3K44YXw |
+| 395 | **You Only Cut Once: Boosting Data Augmentation with a Single Cut** | https://bit.ly/36L8pDW |
+| 396 | **StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets** | https://bit.ly/3iRlEp8 |
+| 397 | **The KFIoU Loss for Rotated Object Detection** | https://bit.ly/3NHUL5e |
+| 398 | **The Met Dataset: Instance Level Recognition** | https://bit.ly/3K7lPJ2 |
+| 399 | **Alphacode: a System that can  compete at average human level** | https://bit.ly/3qXIIH5 |
+| 400 | **Third Time's the Charm? Image and Video Editing with StyleGAN3** | https://bit.ly/35vAoqx |
+| 401 | **NeuralFusion: Online Depth Fusion in Latent Space** | https://bit.ly/3uFaysA |
+| 402 | **VOS: Learning what you don't know by VIRTUAL OUTLIER SYNTHESIS** | https://bit.ly/3uPG9rG |
+| 403 | **Self-Conditioned Generative Adversarial Networks for Image Editing** | https://bit.ly/3tX8m0u |
+| 404 | **TransformNet: Self-supervised representation learning through predicting geometric transformations** | https://bit.ly/3uOCfPM |
+| 405 | **YOLOv7 - Framework Beyond Detection** | https://bit.ly/3wXU81y |
+| 406 | **F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization** | https://bit.ly/3DzhFXU |
+| 407 | **Block-NeRF: Scalable Large Scene Neural View Synthesis** | https://bit.ly/3LyELk5 |
+| 408 | **Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition** | https://bit.ly/375C76y |
+| 409 | **COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets** | https://bit.ly/3NCK6bZ |
+| 410 | **ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification** | https://bit.ly/3uJuMBz |
+| 411 | **Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** | https://bit.ly/388imeT |
+| 412 | **How Do Vision Transformers Work?** | https://bit.ly/3NE1mO2 |
+| 413 | **Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors** | https://bit.ly/3LBS96P |
+| 414 | **PENCIL: Deep Learning with Noisy Labels** | https://bit.ly/3iXvHc4 |
+| 415 | **VLP: A Survey on Vision-Language Pre-training** | https://bit.ly/3J0v2RZ |
+| 416 | **Visual Attention Network** | https://bit.ly/3Dt7rbv |
+| 417 | **GroupViT: Semantic Segmentation Emerges from Text Supervision** | https://bit.ly/3NQv7eG |
+| 418 | **Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis** | https://bit.ly/373xs4T |
+| 419 | **End to End Cascaded Image De-raining and Object Detetion NN** | https://bit.ly/375PLGw |
+| 420 | **Level-K to Nash Equilibrium** | https://bit.ly/3NFRX8t |
+| 421 | **Machine Learning for Mechanical Ventilation Control** | https://bit.ly/3JZCMEV |
+| 422 | **The effect of fatigue on the performance of online writer recognition** | https://bit.ly/3wXSSLS |
+| 423 | **State-of-the-Art in the Architecture, Methods and Applications of StyleGAN** | https://bit.ly/3iRjl5s |
+| 424 | **Long-Tailed Classification with Gradual Balanced Loss and Adaptive Feature Generation** | https://bit.ly/3v5XZXR |
+| 425 | **Self-supervised Transformer for Deepfake Detection** | https://bit.ly/3tXtUdk |
+| 426 | **CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size** | https://bit.ly/3LxkrQa |
+| 427 | **TCTrack: Temporal Contexts for Aerial Tracking** | https://bit.ly/3uM5O4B |
+| 428 | **LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction** | https://bit.ly/3uOfKe0 |
+| 429 | **HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening** | https://bit.ly/35tRV2j |
+| 430 | **ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization** | https://bit.ly/3LwoMmy |
+| 431 | **MLSeg: Image and Video Segmentation** | https://bit.ly/38p9iCN |
+| 432 | **Image Steganography based on Style Transfer** | https://bit.ly/3DJHLaN |
+| 433 | **GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains** | https://bit.ly/3JYPrIg |
+| 434 | **AGCN: Augmented Graph Convolutional Network** | https://bit.ly/3DwZrWN |
+| 435 | **StyleBabel: Artistic Style Tagging and Captioning** | https://bit.ly/3j1Klit |
+| 436 | **ROOD-MRI: Benchmarking the robustness of deep learning segmentation models to out-of-distribution and corrupted data in MRI** | https://bit.ly/38maN4z |
+| 437 | **InsetGAN for Full-Body Image Generation** | https://bit.ly/3Dsu9At |
+| 438 | **Implicit Feature Decoupling with Depthwise Quantization** | https://bit.ly/3K1mxaA |
+| 439 | **Bamboo: Building Mega-Scale Vision Dataset** | https://bit.ly/3wVPalD |
+| 440 | **TensoRF: Tensorial Radiance Fields** | https://bit.ly/3iWAFWI |
+| 441 | **FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition** | https://bit.ly/3NCHTxd |
+| 442 | **One-Shot Adaptation of GAN in Just One CLIP** | https://bit.ly/36NOPab |
+| 443 | **SHREC 2021: Classification in cryo-electron tomograms** | https://bit.ly/3iSXpqv |
+| 444 | **MaskGIT: Masked Generative Image Transformer** | https://bit.ly/3qSQz8I |
+| 445 | **Detection, Recognition, and Tracking: A Survey** | https://bit.ly/378G8qw |
+| 446 | **Mixed Differential Privacy** | https://bit.ly/3IZ0MGU |
+| 447 | **Mixed DualStyleGAN** | https://bit.ly/3wTyAmD |
+| 448 | **BigDetection** | https://bit.ly/3DuZSRk |
+| 449 | **Feature visualization for convolutional neural network** | https://bit.ly/3Dwf6FJ |
+| 450 | **AutoAvatar** | https://bit.ly/38m9ClF |
+| 451 | **A Long Short-term Memory Based Recurrent Neural Network for Interventional MRI Reconstruction** | https://bit.ly/3Dz1idF |
+| 452 | **StyleT2I** | https://bit.ly/35u5Wx0 |
+| 453 | **L^3U-net** | https://bit.ly/3iTOq8r |
 
 ***Thanks for Reading🎉🎉🎉🎉***
 
