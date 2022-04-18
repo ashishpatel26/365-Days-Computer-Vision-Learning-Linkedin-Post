@@ -459,6 +459,23 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 451 | **A Long Short-term Memory Based Recurrent Neural Network for Interventional MRI Reconstruction** | https://bit.ly/3Dz1idF |
 | 452 | **StyleT2I** | https://bit.ly/35u5Wx0 |
 | 453 | **L^3U-net** | https://bit.ly/3iTOq8r |
+| 454 | **Balanced MSE** | https://bit.ly/3rxt7yo |
+| 455 | **BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers** | https://bit.ly/36m3HfC |
+| 456 | **TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing** | https://bit.ly/3JQKZKS |
+| 457 | **On the Importance of Asymmetry for Siamese Representation Learning** | https://bit.ly/3JNgcyt |
+| 458 | **On One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks** | https://bit.ly/3uQTC3P |
+| 459 | **Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth** | https://bit.ly/3KWT6a4 |
+| 460 | **Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection** | https://bit.ly/3L8a59H |
+| 461 | **DaViT: Dual Attention Vision Transformers** | https://bit.ly/3Engc7e |
+| 462 | **SPAct: Self-supervised Privacy Preservation for Action Recognition** | https://bit.ly/3KTNvRW |
+| 463 | **Class-Incremental Learning with Strong Pre-trained Models** | https://bit.ly/3MdlcOq |
+| 464 | **RBGNet: Ray-based Grouping for 3D Object Detection by Center for Data Science** | https://bit.ly/3EqkydH |
+| 465 | **Event Transformer** | https://bit.ly/3KUsMxc |
+| 466 | **ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension** | https://bit.ly/3M6RgDE |
+| 467 | **A9-Dataset: Multi-Sensor Infrastructure-Based Dataset for Mobility Research** | https://bit.ly/3xAyqRj |
+| 468 | **Simple Baselines for Image Restoration** | https://bit.ly/3vt4tjB |
+| 469 | **Masked Siamese Networks for Label-Efficient Learning** | https://bit.ly/3viEs6s |
+| 470 | **Neighborhood Attention Transformer** | https://bit.ly/3jNExK3 |
 
 ***Thanks for Reading🎉🎉🎉🎉***
 
