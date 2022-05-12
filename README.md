@@ -476,6 +476,36 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 468 | **Simple Baselines for Image Restoration** | https://bit.ly/3vt4tjB |
 | 469 | **Masked Siamese Networks for Label-Efficient Learning** | https://bit.ly/3viEs6s |
 | 470 | **Neighborhood Attention Transformer** | https://bit.ly/3jNExK3 |
+| 471 | **TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation** | https://bit.ly/3M3EA0K |
+| 472 | **MVSTER: Epipolar Transformer for Efficient Multi-View Stereo** | https://bit.ly/3MaDTCR |
+| 473 | **Temporally Efficient Vision Transformer for Video Instance Segmentation** | https://bit.ly/3w6xkf3 |
+| 474 | **EditGAN: High-Precision Semantic Image Editing** | https://bit.ly/3yx2JJ2 |
+| 475 | **CenterNet++ for Object Detection** | https://bit.ly/3woxrBG |
+| 476 | **A case for using rotation invariant features in state of the art feature matchers** | https://bit.ly/3kZ1x9A |
+| 477 | **WebFace260M: A Benchmark for Million-Scale Deep Face Recognition** | https://bit.ly/3w2T3Vd |
+| 478 | **JIFF: Jointly-aligned Implicit Face Function for High-Quality Single View Clothed Human Reconstruction** | https://bit.ly/3N9Me9U |
+| 479 | **Image Data Augmentation for Deep Learning: A Survey** | https://bit.ly/3PfC1uA |
+| 480 | **StyleGAN-Human: A Data-Centric Odyssey of Human Generation** | https://bit.ly/3PqV710 |
+| 481 | **Few-shot Head Swapping In The Wild Secrets Revealed By Department Of Computer Vision Technology (vis)** | https://bit.ly/3w7xm6c |
+| 482 | **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP** | https://bit.ly/3N3cEKu |
+| 483 | **HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling** | https://bit.ly/3Nqnevx |
+| 484 | **Generative Adversarial Networks for Image Super-Resolution: A Survey** | https://bit.ly/39jyL0U |
+| 485 | **CLIP-Art: Contrastive Pre-training for Fine-Grained Art Classification** | https://bit.ly/3N7Qd6V |
+| 486 | **C3-STISR: Scene Text Image Super-resolution with Triple Clues** | https://bit.ly/3l1352C |
+| 487 | **Barbershop: GAN-based Image Compositing using Segmentation Masks** | https://bit.ly/39hus6d |
+| 488 | **DANBO: Disentangled Articulated Neural Body Representations** | https://bit.ly/3LkqWp3 |
+| 489 | **BlobGAN: Spatially Disentangled Scene Representations** | https://bit.ly/3sufEYz |
+| 490 | **Text to artistic image generation** | https://bit.ly/3w6wzmd |
+| 491 | **Sequencer: Deep LSTM for Image Classification** | https://bit.ly/3sulPvT |
+| 492 | **IVY: An Open-Source Tool To Make Deep Learning Code Compatible Across Frameworks** | https://bit.ly/3M6MbvJ |
+| 493 | **Introspective Deep Metric Learning** | https://bit.ly/3w2pZ02 |
+| 494 | **KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints** | https://bit.ly/3wnRhwF |
+| 495 |  |  |
+| 496 |  |  |
+| 497 |  |  |
+| 498 |  |  |
+| 499 |  |  |
+| 500 |  |  |
 
 ***Thanks for Reading🎉🎉🎉🎉***
 
