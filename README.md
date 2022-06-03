@@ -500,12 +500,12 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 492 | **IVY: An Open-Source Tool To Make Deep Learning Code Compatible Across Frameworks** | https://bit.ly/3M6MbvJ |
 | 493 | **Introspective Deep Metric Learning** | https://bit.ly/3w2pZ02 |
 | 494 | **KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints** | https://bit.ly/3wnRhwF |
-| 495 |  |  |
-| 496 |  |  |
-| 497 |  |  |
-| 498 |  |  |
-| 499 |  |  |
-| 500 |  |  |
+| 495 | **GraphWorld: A Methodology For Analyzing The Performance Of GNN Architectures On Millions Of Synthetic Benchmark Datasets** | https://bit.ly/3PUQexk |
+| 496 | **Group R-CNN for Weakly Semi-supervised Object Detection with Points** | https://bit.ly/3zfvU3W |
+| 497 | **Few-Shot Head Swapping in the Wild** | https://bit.ly/3xapGkn |
+| 498 | **StyLandGAN: A StyleGAN based Landscape Image Synthesis using Depth-map** | https://bit.ly/3GKX4Bi |
+| 499 | **Spiking Approximations of the MaxPooling Operation in Deep SNNs** | https://bit.ly/3GLp7AG |
+| **500** | **Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization** | https://bit.ly/3NTGsJQ |
 
 ***Thanks for Reading🎉🎉🎉🎉***
 
