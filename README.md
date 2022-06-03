@@ -298,10 +298,10 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 290 | **Anticipative Video Transformer** | https://bit.ly/30mADl2 |
 | 291 | **Attention Meets Geometry** | https://bit.ly/3kweSpZ |
 | 292 | **DeepMoCaP:** Deep Optical Motion Capture | https://bit.ly/30mjTdT |
-| 293 | **TrOCR: Transformer-based Optical Character Recognition ** | https://bit.ly/3DqenW5 |
+| 293 | **TrOCR: Transformer-based Optical Character Recognition** | https://bit.ly/3DqenW5 |
 | 294 | **Moving Fashion** | https://bit.ly/2YGtjA1 |
 | 295 | **StyleNeRF** | https://bit.ly/31W4Mbz |
-| 296 | **ECA-Net: :Efficient Channel Attention ** | https://bit.ly/3n92i1s |
+| 296 | **ECA-Net: :Efficient Channel Attention** | https://bit.ly/3n92i1s |
 | 297 | **Inferring High Resolution Traffic Accident risk maps** | https://bit.ly/3HgovD6 |
 | 298 | **Bias Loss: For Mobile Neural Network** | https://bit.ly/3qvBPNO |
 | 299 | **ByteTrack: Multi-Object Tracking** | https://bit.ly/3c3l7wQ |
